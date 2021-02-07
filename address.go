@@ -12,10 +12,10 @@ import (
 	"strings"
 
 	"golang.org/x/crypto/ripemd160"
-	"github.com/ltcsuite/ltcd/btcec"
-	"github.com/ltcsuite/ltcd/chaincfg"
-	"github.com/ltcsuite/ltcutil/base58"
-	"github.com/ltcsuite/ltcutil/bech32"
+	"github.com/tatumio/ltcd/btcec"
+	"github.com/tatumio/ltcd/chaincfg"
+	"github.com/tatumio/ltcutil/base58"
+	"github.com/tatumio/ltcutil/bech32"
 )
 
 // UnsupportedWitnessVerError describes an error where a segwit address being

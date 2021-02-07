@@ -21,7 +21,7 @@ functionality provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/ltcsuite/ltcutil
+$ go get -u github.com/tatumio/ltcutil
 ```
 
 ## License
