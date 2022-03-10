@@ -1,5 +1,6 @@
-ltcutil
+DEPRECATED: ltcutil
 =======
+This repository has been deprecated because of it being a forked lib.
 
 [![Build Status](http://img.shields.io/travis/ltcsuite/ltcutil.svg)](https://travis-ci.org/ltcsuite/ltcutil) 
 [![Coverage Status](http://img.shields.io/coveralls/ltcsuite/ltcutil.svg)](https://coveralls.io/r/ltcsuite/ltcutil?branch=master) 
